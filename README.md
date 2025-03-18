@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @code-Aadarsh
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning python libraries
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently studying web-development 
+- 💞️ I’m looking to collaborate on projects(web-apps only)
+- 📫 My email : flashandgod@gmail.com
+- ⚡ Fun fact: I am going to become best 
 
 <!---
 code-Aadarsh/code-Aadarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
